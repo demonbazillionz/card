@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:B N;NITHIN;;;
+FN:NITHIN B N
+ORG:demonbazillionz
+ADR;TYPE=WORK:
+TITLE:Founder & CEO
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:demonbazillionz@proton.me
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:demonbazillionz develops privacy-first open-source Android applications built for security-conscious users who value freedom, transparency, and control over their digital world.
+UID:EnBizCard-100220979
+END:VCARD
